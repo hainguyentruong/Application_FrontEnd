@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "sortBy": "Total Confirmed"
+    },
+    {
+        "id": "2",
+        "sortBy": "Number Of Deaths"
+    },
+    {
+        "id": "3",
+        "sortBy": "Number Of Recovered"
+    }
+]
